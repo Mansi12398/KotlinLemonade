@@ -1,6 +1,6 @@
 Project: Lemonade App - Starter Code
 ==================================
-
+Completed project of kotlin lemonade app.it get from [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 Introduction
@@ -18,7 +18,6 @@ Getting Started
 
 1. Download the starter code
 2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
 
 Tips
 ----
